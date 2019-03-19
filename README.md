@@ -15,5 +15,6 @@ Status:<br />
 &nbsp;  Password : 1234<br />
 
 Features to include in next few commits:<br />
-&nbsp;  1) Lightweight DB to store basic user credentials and data of the core app<br />
-&nbsp;  2) A core functional feature for the app<br />
+&nbsp;  1) Lightweight DB(mysql) to store basic user credentials and data of the core app<br />
+&nbsp;  2) Storing various health related data for a person (eg: blood pressure,weight,sugar level etc)<br />
+&nbsp;  3) Predictive suggesation and related features of various diseases one may have based on trained machine learning models<br />
